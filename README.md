@@ -1,6 +1,6 @@
 
 <p align=center >
-<img width=80%  src="https://raw.githubusercontent.com/taiunara/taiunara/a7ef57f5a8454869959218523a84b6f3ab09dc3e/banner1.png"/>
+<img width=80%  src="https://github.com/taiunara/taiunara/blob/taiunara-assets-1/CAPA2.png?raw=true"/>
 </p>
 
 <p align="center">

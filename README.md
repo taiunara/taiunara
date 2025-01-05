@@ -1,16 +1,14 @@
 
+<p align=center >
+<img width=80%  src="https://raw.githubusercontent.com/taiunara/taiunara/a7ef57f5a8454869959218523a84b6f3ab09dc3e/banner1.png"/>
+</p>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EB6F0&center=true&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&center=true&width=435&lines=+++Exploring+the+Infinite+Possibilities+of+Code+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <p>👋 Hey! here, you'll find projects that showcase my journey into the world of front-end development and web design </p>
 <p> 📚 I’m a Systems and Digital Media undergraduate, constantly improving my skills through both university studies and additional courses to expand my knowledge in coding and design.</p>
 <p> 🌱 This space is my evolution diary, where I share challenges, achievements, and learnings. Feel free to explore and follow along with my growth!</p>
-
-<h3 align=center> 💻 Web Developer Student </h3>
-
-<p align=center >
-<img width=60%  src="https://i.pinimg.com/originals/8b/c5/3e/8bc53eee4b1bd2aee35018af32df180c.gif"/>
-</p>
 
 <div align=center>
 

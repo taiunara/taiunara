@@ -35,7 +35,7 @@
 <h4 align=center>Socials</h4>
 
 <div align=center>
-  <a href="https://www.figma.com/design/Qvli5ztP4Nyl9XYF8rE1XR/Projeto-Opus?m=auto&t=OZT3oc31zlA2RpB0-1" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+  <a href="https://www.figma.com/files/team/1345115067170071172/project/321123375/Portf%C3%B3lio?fuid=1345115061610314564" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/anatainara1" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 
 ##

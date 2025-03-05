@@ -13,8 +13,8 @@
 <div align=center>
 
   <a href="https://github.com/taiunara">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=taiunara&count_private=true&show_icons=true&theme=catppuccin_latte"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiunara&layout=compact&theme=catppuccin_latte"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=taiunara&count_private=true&show_icons=true&theme=catppuccin_latte&cache_seconds=30"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiunara&layout=compact&theme=catppuccin_latte&cache_seconds=30"/>
 
   </div>
 

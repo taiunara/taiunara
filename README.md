@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&center=true&width=435&lines=+++Exploring+the+Infinite+Possibilities+of+Code+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<p>👋 Hey! here, you'll find projects that showcase my journey into the world of front-end development and web design </p>
-<p> 📚 I’m a Systems and Digital Media undergraduate, constantly improving my skills through both university studies and additional courses to expand my knowledge in coding and design.</p>
-<p> 🌱 This space is my evolution diary, where I share challenges, achievements, and learnings. Feel free to explore and follow along with my growth!</p>
+<p>👋 Olá! Aqui você encontrará projetos que mostram minha jornada no mundo do desenvolvimento front-end e web design.</p>
+<p> 📚 Sou estudante de graduação em Sistemas e Mídia Digital, aprimorando constantemente minhas habilidades por meio de estudos universitários e cursos adicionais para expandir meu conhecimento em programação e design.</p>
+<p> 🌱 Este espaço é o meu diário de evolução, onde compartilho desafios, conquistas e aprendizados. Sinta-se à vontade para explorar e acompanhar meu crescimento! </p>
 
 <div align=center>
 
